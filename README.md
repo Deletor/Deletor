@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Grzegorz Janowicz 👋
+- 🔭 I’m currently working on Home Asistant Tool
+- 🌱 I’m currently learning python, django, vuetifyjs, django rest framework
+- 👯 I’m looking to collaborate on open source project
 
 <!--
 **Deletor/Deletor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
